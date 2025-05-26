@@ -24,7 +24,7 @@ Logs from the Windows VM are shipped to the host Splunk instance using Splunk Un
 
 ---
 
-## 📊 Use Cases Implemented
+##  Use Cases Implemented
 
 ### 1. Brute Force Login Detection
 
@@ -121,7 +121,7 @@ By completing this project, I learned:
 
 ---
 
-# Thanks FOR BACK GROUND TEAM 
+# Thanks 
 To the mentors and community resources that helped along the way — and to the open-source community whose tools made this project possible.
 
 
