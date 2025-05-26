@@ -4,7 +4,7 @@ Welcome to the **SIEM Internship Phase-1** repository. This project is part of a
 
 ---
 
-## 🎓 Internship Objective
+##  Internship Objective
 
 * Set up a functional SIEM environment (Splunk Free edition)
 * Collect logs from Windows machines via Universal Forwarder
@@ -14,7 +14,7 @@ Welcome to the **SIEM Internship Phase-1** repository. This project is part of a
 
 ---
 
-## 📚 Lab Architecture
+##  Lab Architecture
 
 * **Host Machine**: Running Splunk Web Interface
 * **Windows 10 VM**: Target machine with Sysmon, Event Logs, and Splunk Universal Forwarder
@@ -59,18 +59,29 @@ Logs from the Windows VM are shipped to the host Splunk instance using Splunk Un
 
 ---
 
-## 🗃️ Folder Structure
+##  Folder Structure
 
 ```
 siem-internship-phase-1/
 ├── Scenarios-1-bruteforce/
 │   ├── screenshots/
 │   ├── detection-logic/
-│   └── writeups/
+│   └── README/
 ├── Scenarios-2-suspicious-logon-times/
-├── Scenarios-3-lateral-movement-attmept/
+|    |__screenshoots/
+|    |__detection-logic/
+|    |__ README/
+├── Scearios-3-lateral-movement-attmept/
+|    |__screenshoots/
+|    |__detection-logic/
+|    |__README/
 ├── Scenarios-4-log-tampering/
+|    |__screenshoots/
+|    |__detection-logic/
+|    |__README/
 ├── Scenarios-5-hidden-user-account/
+|    |__screenshoots/
+|    |__detection-logic/
 └── README.md
 ```
 
@@ -82,7 +93,7 @@ Each folder contains:
 
 ---
 
-## 🌍 Tools Used
+##  Tools Used
 
 * **SIEM**: Splunk Free
 * **Monitoring Tools**: Sysmon, Event Viewer
@@ -91,16 +102,16 @@ Each folder contains:
 
 ---
 
-## 📄 Submission Checklist
+##  Submission Checklist
 
-* [x] Screenshots of each detection scenario
-* [x] SPL queries for alert logic
-* [x] Markdown writeups per use case
-* [x] Logs demonstrating detection in Splunk
+*  Screenshots of each detection scenario
+* SPL queries for alert logic
+*  Markdown writeups per use case
+* ogs demonstrating detection in Splunk
 
 ---
 
-## 🚀 Outcome
+##  Outcome
 
 By completing this project, I learned:
 
@@ -110,8 +121,7 @@ By completing this project, I learned:
 
 ---
 
-## 🌟 Special Thanks
-
+# Thanks FOR BACK GROUND TEAM 
 To the mentors and community resources that helped along the way — and to the open-source community whose tools made this project possible.
 
 
